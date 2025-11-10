@@ -1,0 +1,30 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "files.exclude": {
+    "node_modules/": "explorerExcludedFiles",
+    ".expo/": "explorerExcludedFiles",
+    "dist/": "explorerExcludedFiles",
+    "web-build/": "explorerExcludedFiles",
+    "expo-env.d.ts": "explorerExcludedFiles",
+    ".kotlin/": "explorerExcludedFiles",
+    "*.orig.*": "explorerExcludedFiles",
+    "*.jks": "explorerExcludedFiles",
+    "*.p8": "explorerExcludedFiles",
+    "*.p12": "explorerExcludedFiles",
+    "*.key": "explorerExcludedFiles",
+    "*.mobileprovision": "explorerExcludedFiles",
+    ".metro-health-check*": "explorerExcludedFiles",
+    "npm-debug.*": "explorerExcludedFiles",
+    "yarn-debug.*": "explorerExcludedFiles",
+    "yarn-error.*": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles",
+    "*.pem": "explorerExcludedFiles",
+    ".env*.local": "explorerExcludedFiles",
+    "*.tsbuildinfo": "explorerExcludedFiles",
+    "app-example": "explorerExcludedFiles"
+  }
+}
